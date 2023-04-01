@@ -1,0 +1,62 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#todoList {
+  background-color: aqua;
+  width: 400px;
+  height: 700px;
+}
+#heading {
+  position: relative;
+  top: 20px;
+}
+#headPart {
+  width: 350px;
+  height: 150px;
+  position: relative;
+  left: 20px;
+  border: solid;
+}
+#NewTodo {
+  position: relative;
+  padding: 10px;
+  padding-left: 100px;
+  top: 30px;
+}
+#addTask {
+  background-color: burlywood;
+  position: relative;
+  padding: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  top: 50px;
+}
+#All {
+  position: relative;
+  margin-right: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#Done {
+  position: relative;
+  margin-right: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#Todo {
+  position: relative;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#output {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 20px;
+  top: 20px;
+  border: solid;
+}
